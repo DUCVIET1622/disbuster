@@ -7,7 +7,7 @@
 
 ##  Giới thiệu
 
-**DirBuster ** 
+**DisBuster ** 
 
 * Quét các đường dẫn (paths) ẩn trên website
 * Phát hiện các endpoint tồn tại như `/admin`, `/login`, `/config`
