@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Kali_Linux-Compatible-557C94?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/License-MIT-00FF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Beginner-FF6600?style=for-the-badge" />
+</p>
+
+
+
 #  DirBuster  -  Web Directory Scanner
 
 > 
