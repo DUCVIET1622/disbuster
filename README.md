@@ -73,7 +73,7 @@ Kết quả:
 
 *  Tìm đường dẫn ẩn trên website
 *  Phát hiện file nhạy cảm (.env, backup, config,...)
-*  Học pentest / ethical hacking
+
 *  Kiểm tra bảo mật website cá nhân
 
 ---
